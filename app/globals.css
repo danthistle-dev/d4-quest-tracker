@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+    @apply dark:bg-stone900;
+    @apply bg-stone-100;
+}
