@@ -1,5 +1,4 @@
 import { ThemeProvider } from './components/theme-provider';
-import '../app/globals.css';
 import Header from './components/header';
 import CharacterSelect from './components/character-select';
 import { Toaster } from './components/ui/toaster';
