@@ -3,6 +3,6 @@
 @tailwind utilities;
 
 body {
-    @apply dark:bg-stone900;
+    @apply dark:bg-stone-900;
     @apply bg-stone-100;
 }
